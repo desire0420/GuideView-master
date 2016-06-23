@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Thinkpad\Desktop\developDemo\GuideView-master\GuideView-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\Thinkpad\Desktop\developDemo\GuideView-master\GuideView-master\app\build\intermediates\pre-dexed\debug\classes-1c6cf23302e8cdd8ed0f57f5d37f6f98f5b16802.jar" />
+    </item>
+    <item
+        jar="C:\Users\Thinkpad\Desktop\developDemo\GuideView-master\GuideView-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\Thinkpad\Desktop\developDemo\GuideView-master\GuideView-master\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-fe4523128814ce5cacace12a5ac5413f4466036d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Thinkpad\Desktop\developDemo\GuideView-master\GuideView-master\app\build\intermediates\exploded-aar\GuideView-master\guideview\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e2aed1678c9d8db5efdc03b47b2cd0de154be2ad">
+        <dex dex="C:\Users\Thinkpad\Desktop\developDemo\GuideView-master\GuideView-master\app\build\intermediates\pre-dexed\debug\classes-8b7e83765cb155b4d03c316412e7e7866f7d5b87.jar" />
+    </item>
+    <item
+        jar="C:\Users\Thinkpad\Desktop\developDemo\GuideView-master\GuideView-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\Thinkpad\Desktop\developDemo\GuideView-master\GuideView-master\app\build\intermediates\pre-dexed\debug\classes-c88b391a974982d71181d2573facc4d1a640805a.jar" />
+    </item>
+    <item
+        jar="D:\As\SDK\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\Thinkpad\Desktop\developDemo\GuideView-master\GuideView-master\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-1bb7eb7e69d073886866c114efccf423a4ff2b66.jar" />
+    </item>
+
+</items>
